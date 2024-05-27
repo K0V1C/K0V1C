@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K0V1C
-- 👀 I’m interested in Car Spotting
+- 👀 I’m interested in Cars
 - 🌱 I’m currently learning C++, HTML, SMMA
 - 💞️ I’m looking to collaborate on Dance Competitions
 - 📫 How to reach me via email kovicstefan2@gmail.com
