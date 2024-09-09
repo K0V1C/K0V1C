@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid red;
+}
+
+nav {
+    background-color: grey;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: grey;
+}
